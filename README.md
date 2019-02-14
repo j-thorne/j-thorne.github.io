@@ -1,2 +1,2 @@
-# j-thorne.github.io
+# jakeathorne.github.io
 Personal Site
